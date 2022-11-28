@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduard
 - 👀 I’m interested in webdevelop, take a photo and draw.
-- 🌱 I’m currently learning GIT, webdev and Englich
+- 🌱 I’m currently learning GIT, webdev and English
 - 💞️ I’m looking to collaborate on webdev.
 - 📫 How to reach me: e-mail: edyard2002@mail.ru
 
